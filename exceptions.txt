@@ -1,0 +1,3 @@
+! Title: My Adblock Filters
+!! EXCEPTIONS
+@@||www.youtube.com/youtubei/v1/search^$~script
