@@ -1,3 +1,3 @@
-! Title: My Adblock Filters
+! Title: BR0 Ads Exceptions
 !! EXCEPTIONS
 @@||www.youtube.com/youtubei/v1/search^$~script
